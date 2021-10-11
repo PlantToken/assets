@@ -1,0 +1,21 @@
+{
+    "name": "PlantToken",
+    "website": "https://www.PlantToken.co",
+    "description": "PlantToken is a freelance marketplace platform like Fiverr, but for crypto. Get hired, do work, get paid in crypto",
+    "explorer": "https://bscscan.com/address/0xdC243F2cF20106B53C7b5A6fd4756C1a920a59DC",
+    "type": "BEP20",
+    "symbol": "PLANT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xdC243F2cF20106B53C7b5A6fd4756C1a920a59DC",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/planttoken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PlantToken"
+        }
+    ]
+}
